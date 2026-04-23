@@ -1,14 +1,16 @@
-# ПЕРЕВОД В ПРОЦЕССЕ! pfQuest [Project Epoch DB] - Русская версия (ИИ-перевод). Перерод выполнен с помощью нейросетей Claude Sonnet 4.6 и Google Gemini.
+# ПЕРЕВОД В ПРОЦЕССЕ! pfQuest [Project Epoch DB] - Русская версия (ИИ-перевод). Перерод выполнен с помощью нейросетей Claude Sonnet 4.6, Claude Opus 4.7 и Google Gemini.
 
-Для работы потребуется: 
+Для работы русской версии аддона потребуется: 
 
-1. Папка со шрифтами, качаем отсюда и всю папку fonts помещаем в корень папки с игрой (epoch-live) - **[папка со шрифтами](https://github.com/Tsamlag/fonts)**
-2. Скачиваем последнюю версию аддона **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-full-wotlk.zip)** и распаковывываем в папку с аддонами (epoch-live\Interface\AddOns)
-3. Качаем данный аддон и распаковываем в папку с аддонами (epoch-live\Interface\AddOns)
-4. В игре в окне квестов выберите "Russian" в правом верхнем углу, где изначально написано "English".
+1. Шрифты, качаем и всю папку fonts помещаем в корень папки с игрой (epoch-live) - **[папка со шрифтами](https://github.com/Tsamlag/fonts)**.
+2. Скачиваем последнюю версию аддона **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-full-wotlk.zip)** и распаковывываем в папку с аддонами (epoch-live\Interface\AddOns).
+3. Качаем данный аддон и распаковываем в папку с аддонами (epoch-live\Interface\AddOns).
+4. В игре в окне квестов выберите "Russian" в правом верхнем углу, справа от названия любого квеста.
 
 P.S. Можете форкать себе и улучшать перевод в дальнейшем. Соблюдайте лицензионные требования [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch).
+Большая благодарность авторам и контрибьютерам аддона!
 
+Мой ник в игре: Donreborn (Kezan) - ранее Donvincet (TWOW), казуал, люблю квесты.
 
 # Оригинальное описание [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch) (на англ. языке)
 
