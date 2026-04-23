@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# pfQuest [Project Epoch DB]
-=======
 # ПЕРЕВОД В ПРОЦЕССЕ! pfQuest [Project Epoch DB] - Русская версия (ИИ-перевод). Перерод выполнен с помощью нейросетей Claude Sonnet 4.6 и Google Gemini.
 
 Для работы потребуется: 
@@ -14,7 +11,6 @@ P.S. Можете форкать себе и улучшать перевод в 
 
 
 # Оригинальное описание [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch) (на англ. языке)
->>>>>>> 26cf3ca (закончен перевод зон, начат перевод предметов)
 
 **NOTE: I have quit Epoch but will allow people to Fork this repo and submit PR's for content to keep it up to date. 
 
