@@ -5,7 +5,7 @@
 
 1. Шрифты, качаем и всю папку fonts помещаем в корень папки с игрой (epoch-live) - **[папка со шрифтами](https://github.com/Tsamlag/fonts)**.
 2. Скачиваем последнюю версию аддона **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-full-wotlk.zip)** и распаковывываем в папку с аддонами (epoch-live\Interface\AddOns).
-3. Качаем данный аддон и распаковываем в папку с аддонами (epoch-live\Interface\AddOns).
+3. Качаем [данный аддон](https://github.com/Woronokin/pfQuest-epoch-ru/releases/tag/pfQuest-epoch-ru-v1.0) и распаковываем в папку с аддонами (epoch-live\Interface\AddOns).
 4. В игре в окне квестов выберите "Russian" в правом верхнем углу, справа от названия любого квеста.
 
 P.S. Можете форкать себе и улучшать перевод в дальнейшем. Соблюдайте лицензионные требования [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch).
