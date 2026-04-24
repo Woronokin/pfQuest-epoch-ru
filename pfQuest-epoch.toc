@@ -9,10 +9,7 @@
 
 init\data-epoch.xml
 init\enUS-epoch.xml
-<<<<<<< HEAD
-=======
 init\ruRU-epoch.xml
->>>>>>> 26cf3ca (закончен перевод зон, начат перевод предметов)
 
 overwrites.lua
 patchtable.lua
