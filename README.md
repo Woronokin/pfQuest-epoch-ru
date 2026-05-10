@@ -1,18 +1,32 @@
-# pfQuest [Project Epoch DB]
+# pfQuest [Project Epoch DB] - Русская версия (ИИ-перевод) | Project Epoch руссификатор квестов.
+Перерод выполнен с помощью нейросетей Claude Sonnet 4.6, Claude Opus 4.7 и Google Gemini. 
+Когда токены заканчивались в платном тарифе - в ход шли любые более-менее точные модели, вплоть до обновленного DeepSeek v.4. На момент 24.04.2026 переведено все, что было возможно перевести из английской версии аддона.
+
+Для работы русской версии аддона потребуется: 
+
+1. Шрифты, качаем и всю папку fonts помещаем в корень папки с игрой (epoch-live) - **[папка со шрифтами](https://github.com/Tsamlag/fonts)**.
+2. Скачиваем последнюю версию аддона **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-full-wotlk.zip)** и распаковывываем в папку с аддонами (epoch-live\Interface\AddOns).
+3. Качаем [данный аддон](https://github.com/Woronokin/pfQuest-epoch-ru/releases/tag/pfQuest-epoch-ru-v1.0) и распаковываем в папку с аддонами (epoch-live\Interface\AddOns).
+4. В игре в окне квестов выберите "Russian" в правом верхнем углу, справа от названия любого квеста.
+
+P.S. Можете форкать себе и улучшать перевод в дальнейшем. Соблюдайте лицензионные требования [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch).
+Большая благодарность авторам и контрибьютерам аддона!
+
+Мой ник в игре: Donreborn (Kezan) - ранее Donvincet (TWOW), казуал, люблю квесты.
+
+# Оригинальное описание [исходного репозитория](https://github.com/Bennylavaa/pfQuest-epoch) (на англ. языке)
 
 **NOTE: I have quit Epoch but will allow people to Fork this repo and submit PR's for content to keep it up to date. 
 
 **NOTE: I do not give permission for this addon to be hosted in any servers launchers of any kind unless directly pulled from my repo and you must contact me before doing so.**
 
-An extension for [pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/download/7.0.1/pfQuest-enUS-wotlk.zip) which adds support for [Project Epoch](https://www.project-epoch.net/).
-The latest version of [pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/download/7.0.1/pfQuest-enUS-wotlk.zip) is required and only enUS-Gameclients are supported at the time.
-
-At this time development for this add-on is only with pfQuest [7.0.1](https://github.com/shagu/pfQuest/releases/download/7.0.1/pfQuest-enUS-wotlk.zip) in mind, if you wish to use the [8.0.0](https://github.com/Bennylavaa/pfQuest-wotlk/releases/latest/download/pfQuest-wotlk.zip) version that is fine but expect issues. 
+An extension for [pfQuest-wotlk](https://github.com/shagu/pfQuest) which adds support for [Project Epoch](https://www.project-epoch.net/).
+The latest version of [pfQuest-wotlk](https://github.com/shagu/pfQuest) is required and only enUS-Gameclients are supported at the time.
 
 ## Installation
 pfQuest-epoch is dependant on pfQuest to work.
 
-1. Download the latest release **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/download/7.0.1/pfQuest-enUS-wotlk.zip)**
+1. Download the latest release **[pfQuest-wotlk](https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-full-wotlk.zip)**
 2. Unzip it and place the "pfQuest-wotlk" folder into Wow-Directory\Interface\AddOns
 3. Download the latest release **[pfQuest-epoch](https://github.com/Bennylavaa/pfQuest-epoch/releases/latest/download/pfQuest-epoch.zip)**
 4. Unzip it and place the "pfQuest-epoch" folder into Wow-Directory\Interface\AddOns
@@ -35,6 +49,3 @@ This project is licensed under a custom license that allows personal use and Git
 - snifflewow: for the auto release workflow idea as well as the cleaned up readme documentation.
 - Exuria: for their countless hours spent contrubuting. 
 - trav346: for the foundation of the overworld map markers.
-
-## Disclaimer
-Fan-made, non-commercial project. Not affiliated with Blizzard Entertainment or with the Project Epoch server or its staff. World of Warcraft and all related trademarks are property of Blizzard Entertainment. All game data shipped with this addon comes from hand gathered community data.

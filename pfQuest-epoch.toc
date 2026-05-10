@@ -9,6 +9,7 @@
 
 init\data-epoch.xml
 init\enUS-epoch.xml
+init\ruRU-epoch.xml
 
 overwrites.lua
 patchtable.lua
