@@ -1,4 +1,11 @@
 # pfQuest [Project Epoch DB] - Русская версия (ИИ-перевод) | Project Epoch руссификатор квестов.
+
+<p align="center">
+  <a href="https://github.com/Woronokin/pfQuest-epoch-ru/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/Woronokin/pfQuest-epoch-ru?style=for-the-badge&color=brightgreen"></a>
+  <a href="https://github.com/Woronokin/pfQuest-epoch-ru/releases"><img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Woronokin/pfQuest-epoch-ru/total?style=for-the-badge&logo=github&color=success"></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/DDULDDUCK/every-pdf?style=for-the-badge&color=informational"></a>
+</p>
+
 Перерод выполнен с помощью нейросетей Claude Sonnet 4.6, Claude Opus 4.7 и Google Gemini. 
 Когда токены заканчивались в платном тарифе - в ход шли любые более-менее точные модели, вплоть до обновленного DeepSeek v.4. На момент 25.05.2026 переведено все, что было возможно перевести из английской версии аддона.
 
